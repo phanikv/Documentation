@@ -1,2 +1,2 @@
 # Documentation
-Contains all documentation related to other repositories and ideas, technologies to learn, notes related to learning etc.
+Contains documentation related to other repositories, ideas, technologies to learn, notes related to learning and discussion minutes, ToDos etc.
